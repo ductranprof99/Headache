@@ -4,7 +4,9 @@
     "description": "my first theme",
     "publisher": "ductranhvhk",
     "version": "0.0.2",
-    "icon": "images/headache.png",
+    "icons": {
+        "512": "icons/icon-512.png"
+    },
     "engines": {
         "vscode": "^1.46.0"
     },
